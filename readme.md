@@ -2,7 +2,7 @@
 
 The anti-dependency "dependency."
 
-MinimaCSS is not intended to be treated as a library or framework. It is a 
+[MinimaCSS](https://minimacss.quakkels.com) is not intended to be treated as a library or framework. It is a 
 launching point for your CSS. It's a skeleton of styles designed to provide a 
 simple start that acts as a springboard. 
 
@@ -17,7 +17,7 @@ to your own app's unique needs.
 
 1. Download [minima.css](minima.css) and save it to your styles folder.
 2. Include the style in your html header with `<link rel="stylesheet" href="/{your styles directory}/minima.css">`
-3. Use [demo.html](demo.html) as a reference for how the different design elements are used.
+3. Use [index.html](index.html) as a reference for how the different design elements are used.
 
 ## Features
 
