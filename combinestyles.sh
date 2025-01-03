@@ -1,12 +1,12 @@
 cat \
-	minima.config.css \
-	minima.reset.css \
-	minima.layout.css \
-	minima.typography.css \
-	minima.buttons.css \
-	minima.forms.css \
-	minima.grid.css \
-	minima.messages.css \
-	minima.tables.css \
-	minima.scrollbars.css \
-	> minima.css
+	ecssentric.config.css \
+	ecssentric.reset.css \
+	ecssentric.layout.css \
+	ecssentric.typography.css \
+	ecssentric.buttons.css \
+	ecssentric.forms.css \
+	ecssentric.grid.css \
+	ecssentric.messages.css \
+	ecssentric.tables.css \
+	ecssentric.scrollbars.css \
+	> ecssentric.css

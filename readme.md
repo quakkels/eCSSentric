@@ -1,22 +1,22 @@
-# MinimaCSS
+# eCSSentric
 
 The anti-dependency "dependency."
 
-[MinimaCSS](https://minimacss.quakkels.com) is not intended to be treated as a library or framework. It is a 
+[eCSSentric](https://ecssentric.quakkels.com) is not intended to be treated as a library or framework. It is a 
 launching point for your CSS. It's a skeleton of styles designed to provide a 
 simple start that acts as a springboard. 
 
 Basic decisions have already been made, though anything can be revisited. 
-MinimaCSS is closer to a reference resource than it is to a library or 
-framework. It may help to consider every MinimaCSS instance as a fork of the 
+eCSSentric is closer to a reference resource than it is to a library or 
+framework. It may help to consider every eCSSentric instance as a fork of the 
 original project. Once forked, it's yours, build it up and modify it according 
 to your own app's unique needs.
 
 
 ## Getting Started
 
-1. Download [minima.css](minima.css) and save it to your styles folder.
-2. Include the style in your html header with `<link rel="stylesheet" href="/{your styles directory}/minima.css">`
+1. Download [eCSSentric.css](ecssentric.css) and save it to your styles folder.
+2. Include the style in your html header with `<link rel="stylesheet" href="/{your styles directory}/ecssentric.css">`
 3. Use [index.html](index.html) as a reference for how the different design elements are used.
 
 ## Features
@@ -33,7 +33,7 @@ to your own app's unique needs.
 
 ### Variable Naming Conventions
 
-MinimaCSS's philosophy for variable naming has two parts: 
+eCSSentric's philosophy for variable naming has two parts: 
 
 1. Start with specifics for the smallest piece, then get more descriptive by 
 appending the next biggest context.
@@ -47,8 +47,8 @@ look for `--color-border-input-error`.
 
 ### Variables
 
-MinimaCSS uses `rem` size values. Given the default values in 
-[minima.reset.css](), `1.6rem` will be equivalent to `16px`.
+eCSSentric uses `rem` size values. Given the default values in 
+[ecssentric.reset.css](), `1.6rem` will be equivalent to `16px`.
 
 
 ## Todo
